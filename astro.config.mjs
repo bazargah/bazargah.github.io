@@ -40,8 +40,8 @@ export default defineConfig({
         {
           label: "فروشگاه",
           items: [
-            {label: "دریافت رسید و فاکتور فروش", link: "/shop/resid/"},
-            {label: "جستجوی بسیار کاربردی inline mode", link: "/shop/inlinemode/"},
+            {label: "دریافت رسید و فاکتور فروش", link: "/foroshgah/resid/"},
+            {label: "جستجوی بسیار کاربردی inline mode", link: "/foroshgah/inlinemode/"},
           ]
         }
       ],
